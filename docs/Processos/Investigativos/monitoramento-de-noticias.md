@@ -13,6 +13,7 @@ Acompanhar cobertura jornalística e mídia aberta para detectar menções a ent
 - [NewsNow](https://www.newsnow.co.uk/) — monitoramento por região e setor.
 - [AllSides](https://www.allsides.com/unbiased-balanced-news) — indica viés político em cada fonte.
 - [Euronews](https://www.euronews.com/) — cobertura europeia e internacional.
+- [Start.me News Map](https://start.me/p/lLaoXv/07-world) — mapa interativo com veículos de mídia por país para contextualizar fontes globais.
 
 ## Motores e APIs de Mídia
 - [GDELT](https://www.gdeltproject.org/) — base global de eventos, sentimento e mídia.
